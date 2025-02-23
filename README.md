@@ -12,7 +12,7 @@ The benchmarking approach used here can be extended to a wide range of tasks suc
 
 Before diving into the benchmarks, please consider starring and forking the repository on GitHub to make your own modifications:
 
-https://github.com/discommand2/language_benchmarks
+https://github.com/rpurinton/language_benchmarks
 
 After forking, clone your forked repository to your local machine:
 
@@ -75,16 +75,6 @@ The current benchmarks focus on busy loops, but the possibilities for extension 
 
 Contributions are welcome! If you have a benchmark to add, an improvement to suggest, or a bug to report, please submit a pull request or open an issue on the GitHub repository.
 
-## Support and Community
-
-Join the vibrant community of developers on the discommand2 Discord server for support, discussions, and collaboration:
-
-[https://discord.gg/yMs5vgvyV4](https://discord.gg/yMs5vgvyV4)
-
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file in the repository.
-
----
-
-Dive into the world of performance benchmarking and unleash the full potential of your applications with Language Benchmarks!
